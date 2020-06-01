@@ -1,0 +1,35 @@
+{
+  "name": "attempt",
+  "version": "0.0.1",
+  "description": "Intuitive way of using aysnc-await",
+  "main": "./dist/main.js",
+  "scripts": {
+    "compile": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iAbhinav/attempt.git"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "attempt",
+    "try",
+    "catch",
+    "promise",
+    "resolve",
+    "reject"
+  ],
+  "author": "Abhinav Singhal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iAbhinav/attempt/issues"
+  },
+  "homepage": "https://github.com/iAbhinav/attempt#readme",
+  "devDependencies": {
+    "ts-loader": "^7.0.4",
+    "typescript": "^3.9.3",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
