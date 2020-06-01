@@ -1,8 +1,8 @@
 {
   "name": "async-attempt",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Intuitive way of using aysnc-await",
-  "main": "./dist/main.js",
+  "main": "./dist/index.js",
   "scripts": {
     "compile": "webpack"
   },
