@@ -1,6 +1,6 @@
 {
-  "name": "attempt",
-  "version": "0.0.1",
+  "name": "async-attempt",
+  "version": "0.0.2",
   "description": "Intuitive way of using aysnc-await",
   "main": "./dist/main.js",
   "scripts": {
